@@ -12,6 +12,8 @@ through extensive research, collaboration with peers, and a strong commitment to
 overcoming obstacles. This project has not only deepened my understanding of SQL, GUI
 design, and software development but has also enhanced my ability to work collaboratively
 and seek feedback for continuous improvement.
+
+
 In conclusion, the RomeoBank project embodies innovation, teamwork, and a user-first
 approach. It stands as a testament to the power of dedication and adaptability in creating
 solutions that are both effective and engaging. The skills and experiences gained from this
